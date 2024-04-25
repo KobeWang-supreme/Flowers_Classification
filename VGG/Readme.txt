@@ -10,3 +10,7 @@ root-train
 
 For parameters like batch size, epoch and lr:
 	You can change them in vgg_train.py
+
+
+Training:
+python vgg_train.py
